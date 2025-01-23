@@ -1,0 +1,10 @@
+out,in
+cat,h
+h,d
+d,b
+b,a
+a,meow
+h,a
+d,a
+h,b
+cat,b
