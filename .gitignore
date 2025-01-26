@@ -1,0 +1,5 @@
+route/target
+/target
+*.o
+*.bin
+*.lock
