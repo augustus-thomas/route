@@ -23,7 +23,8 @@ The shortest path from cat to meow is ~29 units via b and a.
 ```
 -> cat -> b -> a -> meow 29.83186638883156
 ```
-
+## Basic Python Features
+For the Python implementation I used tuples, lists, strings, and dictionaries. I used for loops, while loops, with statements, and if statements. I used type casting to get the infinite float.
 ## Reflection & Comparison
 ### Similarities
 Both Rust and Python rely on third party libraries for reading Command Seperated Value (csv) files. Both use the standard library for writing the standard output.
