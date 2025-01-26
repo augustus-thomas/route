@@ -5,12 +5,12 @@ This is a small experiment comparing Rust to Python.
 Goal: pathfind in a weighted graph using the Bellman-Ford algorithm.
 
 Input: 
-    - nodes.csv: nodes and their x, y, z coordinates in Euclidean space.
-    - edges.csv: directed edges.
-    - source & target: stdin
+- nodes.csv: nodes and their x, y, z coordinates in Euclidean space.
+- edges.csv: directed edges.
+- source & target: stdin
 
 Output: 
-    - shortest path between nodes; stdout.
+- shortest path between nodes; stdout.
 
 Example Input:
 Find me a path from cat to meow
