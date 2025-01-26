@@ -1,4 +1,4 @@
-#!/home/awth/miniconda3/bin/python3
+#!/usr/bin/python3
 # fastest sqrt (thanks to C stl):
 from math import sqrt
 from sys import argv

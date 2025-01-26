@@ -103,5 +103,5 @@ fn main() {
         print!("-> {} ", next);
         source = next.to_string();
     }
-    print!("{}", dist.get(&target).expect("target unreachable"));
+    println!("{}", dist.get(&target).expect("target unreachable"));
 }
